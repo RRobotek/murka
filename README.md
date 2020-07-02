@@ -1,5 +1,5 @@
 # murka
-A mouseless solution which let's you control your mouse from your keyboard.
+Basically move the cursor/click via keyboard
 
 # directories
 ### ../murka
